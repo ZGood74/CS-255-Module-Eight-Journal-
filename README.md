@@ -27,5 +27,7 @@ My approach to designing software is systematic and user-centered. I start by th
 
 https://github.com/ZGood74/CS-255-Module-Eight-Journal-/raw/main/CS%20255%20Business%20Requirements%20Document%20Template%20(2).docx
 
+https://github.com/ZGood74/CS-255-Module-Eight-Journal-/raw/main/CS%20255%20System%20Design%20Document%20Template.docx
+
 
 
