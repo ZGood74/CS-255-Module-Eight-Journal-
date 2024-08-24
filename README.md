@@ -24,3 +24,8 @@ I interpreted the user’s needs by closely analyzing the interview transcript p
 How do I approach designing software?
 
 My approach to designing software is systematic and user-centered. I start by thoroughly understanding the client’s requirements through interviews and documentation. I then create models and diagrams to visualize the system architecture and workflows. In the future, I will continue to use techniques like UML diagramming and will likely incorporate more iterative design processes, such as Agile, to allow for continuous feedback and improvement during development.
+
+https://github.com/ZGood74/CS-255-Module-Eight-Journal-/raw/main/CS%20255%20Business%20Requirements%20Document%20Template%20(2).docx
+
+
+
